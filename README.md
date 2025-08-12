@@ -26,7 +26,7 @@ It serves as a portfolio of R programming work, including data analysis scripts,
 - **shiny.R** – Shiny app script for interactive demonstration.
 
 **Shiny App Screenshot:**  
-![Shiny App Screenshot](shiny_image.png)
+![Shiny App Screenshot](R/shiny_image.png)
 
 ---
 
